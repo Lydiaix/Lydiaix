@@ -74,5 +74,5 @@
     .desc { font-size: 18px; letter-spacing: 1px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
   </style>
   <text text-anchor="middle" x="50%" y="112" class="title" fill="#ffffff">Lydiaix</text>
-  <text text-anchor="middle" x="50%" y="152" class="desc" fill="#e0e7ff" opacity="0.95">Développeur Full-Stack · Auditeur Sécurité · Vibe Coder</text>
+  <text text-anchor="middle" x="50%" y="152" class="desc" fill="#e0e7ff" opacity="0.95">Développeur Full-Stack · Auditeur Sécurité · Développeur assisté par l'IA</text>
 </svg>

@@ -68,5 +68,5 @@
     .desc { font-size: 13px; letter-spacing: 0.5px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
   </style>
   <text text-anchor="middle" x="50%" y="128" class="title" fill="#ffffff">lydiaix.fr</text>
-  <text text-anchor="middle" x="50%" y="160" class="desc" fill="#e0e7ff" opacity="0.9">Du prompt au produit — vibe coding en production</text>
+  <text text-anchor="middle" x="50%" y="160" class="desc" fill="#e0e7ff" opacity="0.9">Du prompt au produit — développement assisté par l'IA</text>
 </svg>
