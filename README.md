@@ -3,13 +3,13 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="assets/header.svg" width="100%" alt="Lydiaix — Développeur Full-Stack · Auditeur Sécurité · Vibe Coder"/>
+  <img src="assets/header.svg" width="100%" alt="Lydiaix — Développeur Full-Stack · Auditeur Sécurité · Développeur assisté par l'IA"/>
 </a>
 
 <!-- ═══════════════════════ TYPING ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&height=55&lines=Je+d%C3%A9veloppe+tout+type+de+logiciel+avec+Claude;TypeScript+%C2%B7+React+%C2%B7+Node.js;Audits+de+s%C3%A9curit%C3%A9+%26+solutions+robustes;Du+prompt+au+produit%2C+vibe+coding+en+prod" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&height=55&lines=Je+d%C3%A9veloppe+tout+type+de+logiciel+avec+Claude;TypeScript+%C2%B7+React+%C2%B7+Node.js;Audits+de+s%C3%A9curit%C3%A9+%26+solutions+robustes;Du+prompt+au+produit%2C+d%C3%A9veloppement+assist%C3%A9+par+l%27IA" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -256,7 +256,7 @@ En complément du développement, je réalise des **audits de sécurité applica
 <br/><br/>
 
 <a href="https://lydiaix.fr">
-  <img src="assets/footer.svg" width="100%" alt="lydiaix.fr — Du prompt au produit, vibe coding en production"/>
+  <img src="assets/footer.svg" width="100%" alt="lydiaix.fr — Du prompt au produit, développement assisté par l'IA"/>
 </a>
 
 </div>
