@@ -188,12 +188,12 @@ En complément du développement, je réalise des **audits de sécurité applica
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lydiaix&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats-nine-gray.vercel.app/api?username=Lydiaix&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Lydiaix&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=06b6d4&currentStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e&currentStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lydiaix&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<img height="185" src="https://github-readme-stats-nine-gray.vercel.app/api/top-langs/?username=Lydiaix&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 
 </div>
 
